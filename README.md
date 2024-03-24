@@ -10,8 +10,10 @@
 </div>
 
 #### Once I used
-   <img src="https://img.shields.io/badge/chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"> 
+<div style="display:flex; flex-direction:row;">
+   <img src="https://img.shields.io/badge/chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white">
    <img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elastic&logoColor=white"> 
+ </div>
 
 #### Tools 
 

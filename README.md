@@ -8,12 +8,12 @@
     <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=black"> 
 </div>
 
-#### Once I used
-<div style="display:flex; flex-direction:row;">
-   <img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white"> 
-   <img src="https://img.shields.io/badge/chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white">
-   <img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elastic&logoColor=white"> 
- </div>
+//#### Once I used
+//<div style="display:flex; flex-direction:row;">
+//   <img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=nodedotjs&logoColor=white"> 
+//   <img src="https://img.shields.io/badge/chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white">
+//   <img src="https://img.shields.io/badge/elastic-005571?style=flat-square&logo=elastic&logoColor=white"> 
+// </div>
 
 #### Tools 
 
